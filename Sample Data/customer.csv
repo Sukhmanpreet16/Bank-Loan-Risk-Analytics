@@ -1,0 +1,21 @@
+customer_id,name,age,gender,income,credit_score
+1,Amit Sharma,32,Male,75000.00,720
+2,Priya Verma,28,Female,65000.00,680
+3,Rahul Mehta,45,Male,90000.00,750
+4,Sneha Kapoor,38,Female,82000.00,710
+5,Arjun Singh,29,Male,58000.00,640
+6,Neha Jain,34,Female,72000.00,700
+7,Karan Malhotra,41,Male,100000.00,770
+8,Divya Nair,27,Female,60000.00,660
+9,Rohit Kumar,36,Male,85000.00,730
+10,Meera Joshi,30,Female,70000.00,690
+11,Sanjay Gupta,40,Male,95000.00,760
+12,Pooja Rani,26,Female,55000.00,630
+13,Vikram Sethi,33,Male,80000.00,710
+14,Anjali Sharma,35,Female,72000.00,695
+15,Ramesh Yadav,42,Male,87000.00,745
+16,Shreya Patel,31,Female,67000.00,675
+17,Manoj Singh,39,Male,91000.00,735
+18,Kavita Iyer,29,Female,64000.00,660
+19,Nikhil Verma,37,Male,89000.00,725
+20,Alisha Khan,28,Female,61000.00,650

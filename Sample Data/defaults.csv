@@ -1,0 +1,5 @@
+default_id,loan_id,default_date,reason
+1,5,2024-02-28,Job Loss
+2,10,2023-12-15,Business Failure
+3,15,2024-01-12,Medical Emergency
+4,19,2023-11-20,Missed EMIs

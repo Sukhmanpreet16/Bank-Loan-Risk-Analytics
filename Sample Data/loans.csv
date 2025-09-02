@@ -1,0 +1,21 @@
+loan_id,customer_id,loan_type,loan_amount,interest_rate,tenure_months,status
+1,1,Home Loan,1500000.00,7.50,240,Active
+2,2,Car Loan,500000.00,9.00,60,Closed
+3,3,Personal Loan,200000.00,12.50,36,Active
+4,4,Education Loan,300000.00,10.00,48,Closed
+5,5,Car Loan,400000.00,9.50,48,Defaulted
+6,6,Personal Loan,250000.00,11.00,24,Active
+7,7,Home Loan,1800000.00,7.20,240,Active
+8,8,Car Loan,450000.00,8.90,60,Closed
+9,9,Personal Loan,220000.00,12.00,36,Active
+10,10,Education Loan,280000.00,9.80,60,Defaulted
+11,11,Home Loan,2000000.00,7.00,240,Active
+12,12,Car Loan,380000.00,9.30,48,Closed
+13,13,Personal Loan,300000.00,11.80,36,Active
+14,14,Education Loan,250000.00,9.70,48,Closed
+15,15,Car Loan,420000.00,9.00,48,Defaulted
+16,16,Home Loan,1700000.00,7.40,240,Active
+17,17,Personal Loan,210000.00,12.20,36,Active
+18,18,Car Loan,500000.00,9.10,60,Closed
+19,19,Education Loan,270000.00,9.60,60,Defaulted
+20,20,Personal Loan,230000.00,11.50,24,Active
