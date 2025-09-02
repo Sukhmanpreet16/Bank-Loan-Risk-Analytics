@@ -21,7 +21,7 @@ Language: SQL
 How to Run:-
 1. Import SQL
 
-Run sql/loan_queries.sql in pgAdmin or psql to create schema, insert values, and run analytics queries.
+Run sql file in pgAdmin or psql to create schema, insert values, and run analytics queries.
 
 2. Open Power BI Dashboard
 
